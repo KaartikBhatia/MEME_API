@@ -1,7 +1,8 @@
 # MEME API Connection with Streamlit 🚀
 
 ## Introduction
-This project is an official submission to the Streamlit Connections Hackathon. --> Link
+This project is an official submission to the Streamlit Connections Hackathon.
+https://discuss.streamlit.io/t/connections-hackathon/47574
 This app demonstrates a connection to the MEME API's.
 
 This is a web application built with Streamlit that allows users to explore and generate memes using the MEME API. The app provides a collection of popular memes, and users can add their own text to create customized and humorous memes.
