@@ -11,8 +11,8 @@ def main():
     """
     This app is an official submission to the Streamlit Connections Hackathon.
      - [Hackathon Link](https://discuss.streamlit.io/t/connections-hackathon/47574)
-     - [GitHub Repo](https://github.com/pramitbhatia25/NASA_OpenAPI-Connector)
-     - [MEME API's](https://api.nasa.gov/)
+     - [GitHub Repo](https://github.com/KaartikBhatia/MEME_API)
+     - [MEME API's](https://imgflip.com/api)
     """)
 
 
